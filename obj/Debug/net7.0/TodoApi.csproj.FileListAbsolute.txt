@@ -277,3 +277,4 @@ C:\Users\laia.rodriguez\Documents\C#\TodoApi\obj\Debug\net7.0\refint\TodoApi.dll
 C:\Users\laia.rodriguez\Documents\C#\TodoApi\obj\Debug\net7.0\TodoApi.pdb
 C:\Users\laia.rodriguez\Documents\C#\TodoApi\obj\Debug\net7.0\TodoApi.genruntimeconfig.cache
 C:\Users\laia.rodriguez\Documents\C#\TodoApi\obj\Debug\net7.0\ref\TodoApi.dll
+C:\Users\laia.rodriguez\Documents\C#\TodoApi\bin\Debug\net7.0\TodoApi.staticwebassets.runtime.json
