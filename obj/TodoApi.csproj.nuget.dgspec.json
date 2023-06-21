@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj": {}
+    "c:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj": {
+    "c:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\laia.rodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\obj\\",
+        "outputPath": "c:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laia.rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config"

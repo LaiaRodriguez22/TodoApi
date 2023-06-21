@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EFNe9weiWg3i/Z/wpll8S0imyTHRzjfii2+47GatxJ/xE0MxOJm7eJytYwvi5c/Gd4WJH2PeFIatzjcG+SijHA==",
+  "dgSpecHash": "lqWLQB+liDcJ7YB8dI5ZOahwQClvjUP3ML4bajHd5O4M0eZ3Hak0nDdkvSZSJ9WWKKLSEgAxoQF9B6oaVhacOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "c:\\Users\\laia.rodriguez\\Documents\\C#\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laia.rodriguez\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\laia.rodriguez\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
